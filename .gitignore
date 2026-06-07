@@ -1,0 +1,22 @@
+# API keys -- never commit these
+.env
+
+# Audit output files -- these are generated locally per run
+audit_*.csv
+
+# Python bytecode cache -- generated automatically, not part of the source
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders -- dependencies are tracked in requirements.txt
+.venv/
+venv/
+env/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# IDE config
+.vscode/
+.idea/
