@@ -74,7 +74,7 @@ Do not guess or estimate prices.
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/prompt-auditor.git
+git clone https://github.com/jacksonking256/prompt-auditor.git
 cd prompt-auditor
 ```
 
